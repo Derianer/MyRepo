@@ -1,0 +1,6 @@
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\bin\Debug\InsertNumber.dll
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\bin\Debug\InsertNumber.pdb
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\obj\Debug\InsertNumber.dll
+C:\Users\Zver\source\repos\InsertNumber\InsertNumber\obj\Debug\InsertNumber.pdb

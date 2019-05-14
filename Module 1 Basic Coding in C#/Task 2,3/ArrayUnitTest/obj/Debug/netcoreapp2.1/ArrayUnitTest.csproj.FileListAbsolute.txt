@@ -1,0 +1,34 @@
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.AssemblyInfo.cs
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.deps.json
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.runtimeconfig.json
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.pdb
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\EpamTasks.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\bin\Debug\netcoreapp2.1\EpamTasks.pdb
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csproj.CopyComplete
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.dll
+C:\Users\Zver\source\repos\EpamTasks\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.pdb
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.deps.json
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.runtimeconfig.json
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\ArrayUnitTest.pdb
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\EpamTasks.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\bin\Debug\netcoreapp2.1\EpamTasks.pdb
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.AssemblyInfo.cs
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.csproj.CopyComplete
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.dll
+C:\Users\Zver\source\repos\Task 3\ArrayUnitTest\obj\Debug\netcoreapp2.1\ArrayUnitTest.pdb

@@ -1,0 +1,34 @@
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.AssemblyInfo.cs
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.deps.json
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.runtimeconfig.json
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.pdb
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumber.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumber.pdb
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csproj.CopyComplete
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.dll
+C:\Users\Zver\source\repos\FindNextBiggerNumber\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.pdb
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.AssemblyInfo.cs
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.pdb
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.deps.json
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.runtimeconfig.json
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.runtimeconfig.dev.json
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumberTest.pdb
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumber.dll
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\bin\Debug\netcoreapp2.1\FindNextBiggerNumber.pdb
+C:\Users\Zver\source\repos\Task 5\FindNextBiggerNumberTest\obj\Debug\netcoreapp2.1\FindNextBiggerNumberTest.csproj.CopyComplete

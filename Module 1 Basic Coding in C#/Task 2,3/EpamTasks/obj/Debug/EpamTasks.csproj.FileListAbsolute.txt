@@ -1,0 +1,6 @@
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\bin\Debug\EpamTasks.dll
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\bin\Debug\EpamTasks.pdb
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\obj\Debug\EpamTasks.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\obj\Debug\EpamTasks.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\obj\Debug\EpamTasks.dll
+C:\Users\Zver\source\repos\EpamTasks\EpamTasks\obj\Debug\EpamTasks.pdb

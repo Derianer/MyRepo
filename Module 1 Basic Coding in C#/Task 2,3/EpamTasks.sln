@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpamTasks", "EpamTasks\EpamTasks.csproj", "{4564AB29-5060-474E-83FD-DFBEDE9657FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayUnitTest", "ArrayUnitTest\ArrayUnitTest.csproj", "{ED1BDDFA-8B33-4D7D-92F0-6CCF5E60D10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4564AB29-5060-474E-83FD-DFBEDE9657FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4564AB29-5060-474E-83FD-DFBEDE9657FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4564AB29-5060-474E-83FD-DFBEDE9657FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4564AB29-5060-474E-83FD-DFBEDE9657FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1BDDFA-8B33-4D7D-92F0-6CCF5E60D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1BDDFA-8B33-4D7D-92F0-6CCF5E60D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1BDDFA-8B33-4D7D-92F0-6CCF5E60D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1BDDFA-8B33-4D7D-92F0-6CCF5E60D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA61FA1-F239-421C-AA3D-388CCA0300AC}
+	EndGlobalSection
+EndGlobal
